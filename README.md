@@ -1,2 +1,2 @@
 # wordpressinstaller
-this is a automation which will install wordpress in ubuntu server(debian base)
+this is a automation bot which will install wordpress in ubuntu server(debian base)
